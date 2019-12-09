@@ -1,0 +1,6 @@
+https://github.com/Maybe14/Zotistics : only shows statitiscs and does allow for user input. 
+
+https://zotcurve.github.io/ : actually shows some data
+
+
+Our design should/will provide bigger value to the searcher. 
